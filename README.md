@@ -1,10 +1,9 @@
-# Project Name
-  **Description**: A brief explanation of the project's objective.
+# Tasca S1.03. Arrays
+  **Description**:  In this practice (S1.03) we will have to practice PHP basics - Arrays.
 
   ## 🛠 Technologies
-  - Frontend: React, Tailwind
-  - Backend: Java, MongoDB
-
+  - Frontend: N/A
+  - Backend: PHP
   ## 🚀 Installation
   1. Clone the repository: `git clone ...`
   2. Install dependencies: `npm install`
